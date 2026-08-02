@@ -1,5 +1,5 @@
 # Hi, I'm Insoo 👋
-### System Engineer | Functional Safety | Technical Program Manager | HW Architecture
+### System Engineer | Functional Safety Engineer| Technical Program Manager | HW Architecture Engineer
 
 I design resilient automotive systems, safety-critical hardware architectures, and AI-driven requirements verification workflows for Software-Defined Vehicles (SDVs).
 
