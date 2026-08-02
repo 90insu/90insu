@@ -20,7 +20,7 @@ With over 10 years of engineering experience across global Tier 1 suppliers and 
 
 ### 👨‍💻 About Me
 
-* 🛡️ **Senior System Safety Engineer at General Motors**, driving hardware safety concepts, diagnostic coverage, and AI agent integration for SDV MCU platforms.
+* 🛡️ **Senior System Safety Engineer at General Motors**, leading SDV MCU hardware safety concepts and diagnostic coverage, while pioneering AI-driven workflows to automate safety verification and requirements traceability.
 * 🧰 **Tech & Tooling:** Python, CANoe, Medini, SOX2, DOORS, CodeBeamer, Zuken, JIRA/Confluence, and Generative AI Agents (Glean, Copilot, Gemini, etc).
 
 📌 **Previously:**
