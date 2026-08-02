@@ -1,4 +1,4 @@
-## Hi👋 This is Insoo Kim, a System engineer with 10+ years of global program experience, PMP and TÜV-certified in functional safety, delivering innovation across functional safety, OTA system design, and hardware–software integration for major automotive OEM programs
+## Hi👋 This is Insoo Kim, a System engineer with 10+ years of global program experience, delivering innovation across functional safety, OTA system design, and hardware–software integration for major automotive OEM programs
 
 <!--
 **90insu/90insu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
