@@ -15,3 +15,5 @@ if [ ${#MISSING[@]} -gt 0 ]; then
   apt-get update
   apt-get install -y --no-install-recommends "${MISSING[@]}"
 fi
+
+pip3 install --break-system-packages -U openai-whisper
