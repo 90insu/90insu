@@ -54,6 +54,6 @@ With over 10 years of engineering experience across global Tier 1 suppliers and 
 * 📜 [Google AI Essentials](https://coursera.org/share/d7121599bdcec993d33b890c88cfb42f)
 * 📜 [Meta Introduction to Data Management](https://www.coursera.org/account/accomplishments/verify/DSMEEYN8FLOK)
 * 📜 [IBM Machine Learning with Python](https://www.coursera.org/account/accomplishments/verify/YW0EV5R2PFUF)
-* 📜 [Generative AI for beginners](https://www.udemy.com/certificate/UC-01825f0a-f71a-43f8-89c1-d48b6c7f22a4/])
+* 📜 [Generative AI for beginners](https://www.udemy.com/certificate/UC-01825f0a-f71a-43f8-89c1-d48b6c7f22a4)
 * 🎓 **LG Electronics Six Sigma Black Belt**
 * 🎓 **General Motors Design For Six Sigma Green Belt**
